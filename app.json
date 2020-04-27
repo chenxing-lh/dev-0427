@@ -1,0 +1,19 @@
+{
+  "appKey": "LdD9ivr3SlchfcQSCvcbVHyMbM3I0WOK",
+  "appSecret": "V3tluB1UoUcmLigi36fGKPcCwgmOytVi",
+  "projectId": "daa640ee0239f561d1dcd6e97e8fce2a",
+  "id": 452,
+  "name": "test",
+  "framework": "vue",
+  "platform": "pc",
+  "description": "添加应用报错",
+  "git": {
+    "url": "https://github.com/chenxing-lh/dev-0427.git",
+    "isPrivate": 0,
+    "username": "381606250@qq.com",
+    "password": "40Dgmu57tFbXrDVsWLgzC819dwgfg2RyjJiwF8zAZDadDnuLu7ZacGGzIMIsP3O74+okALczBU/ADIPZBuDudw=="
+  },
+  "alias": {},
+  "pages": [],
+  "dependencies": []
+}
